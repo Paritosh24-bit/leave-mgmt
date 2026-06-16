@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Montserrat:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-indigo-50: #f0fbf9;
+  --color-indigo-100: #d0f5ee;
+  --color-indigo-200: #a1ede0;
+  --color-indigo-300: #5ce0c9;
+  --color-indigo-400: #21c4aa;
+  --color-indigo-500: #019488;    /* Logo Teal */
+  --color-indigo-600: #01a293;    /* Logo Teal bright hover */
+  --color-indigo-700: #034373;    /* Logo Deep Blue */
+  --color-indigo-800: #02365c;    /* Deep Blue hover/active */
+  --color-indigo-900: #01243e;    /* Extra Deep Blue */
+}
+

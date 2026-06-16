@@ -1,0 +1,6 @@
+{
+  "name": "HR Management System",
+  "description": "Comprehensive Human Resource Management System with employee management, attendance tracking, and dynamic sandwich leave calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
